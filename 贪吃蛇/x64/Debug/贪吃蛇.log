@@ -1,0 +1,10 @@
+﻿  main.cpp
+  图形初始化.cpp
+F:\练\贪吃蛇\贪吃蛇\main.cpp(22,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  墙.cpp
+  游戏进行时.cpp
+F:\练\贪吃蛇\贪吃蛇\游戏进行时.cpp(63,14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  蛇的初始化.cpp
+  食物位置初始化.cpp
+  正在生成代码...
+  贪吃蛇.vcxproj -> F:\练\贪吃蛇\x64\Debug\贪吃蛇.exe
